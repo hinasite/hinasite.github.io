@@ -6,4 +6,4 @@ Next.jsとかの静的サイト生成できるフレームワーク使って作�
 
 ## Contribute
 
-リポジトリforkしてプルリク投げてください
+[リポジトリ](https://github.com/hinasite/hinasite.github.io)をforkしてプルリク投げてください
